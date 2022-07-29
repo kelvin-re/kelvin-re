@@ -10,7 +10,10 @@
     
     Sou um tecnólogo focado em desenvolvimento de software!
     
-    Desenvolver Sistemas é uma profissão que me encanta. Com o mercado cada vez mais competitivo, empresas devem estar constantemente atualizadas em suas tecnologias e oportunidades de negócios. O que me atrai com isso tudo é a capacidade de conciliar meu sonho profissional com a praticidade do dia-a-dia e pensamentos sobre assuntos usuais, muito importantes para toda sociedade moderna.
+    Desenvolver Sistemas é uma profissão que me encanta. Com o mercado cada vez mais competitivo, 
+    empresas devem estar constantemente atualizadas em suas tecnologias e oportunidades de negócios. 
+    O que me atrai com isso tudo é a capacidade de conciliar meu sonho profissional com a praticidade do dia-a-dia e 
+    pensamentos sobre assuntos usuais, muito importantes para toda sociedade moderna.
 </p>
 
 <br>I
